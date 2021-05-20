@@ -40,4 +40,5 @@ Since our model has two outputs (both classification), we have two loss function
 
 **Training Status**
 
-Training is being done on the GPU. The model is moved to the GPU before training using the `model.to(device)` method
+Training is being done on the GPU. The model is moved to the GPU before training using the `model.to(device)` method. During training, the data is moved using `data.to(device)`.
+
