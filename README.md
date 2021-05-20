@@ -32,6 +32,7 @@ After the training ends (20 Epochs), the following accuracy is obtained on the t
 | Test Accuracy (MNIST)  | 93.57%  |
 | Test Accuracy (Sum)  | 90.61%  |
 
+<img src="logshot.png" alt="Training Logs" class="inline"/>
 
 **Loss Function**
 
